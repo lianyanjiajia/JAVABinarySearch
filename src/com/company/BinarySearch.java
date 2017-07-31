@@ -7,6 +7,7 @@ public class BinarySearch {
     public static void main(String[] args) {
 	// write your code here
         int a[]=new int[10];
+        int s=222;
         for(int j=0;j<a.length;j++)
         {
             a[j]=j;
