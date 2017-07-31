@@ -3,7 +3,7 @@ package com.company;
 import java.lang.annotation.ElementType;
 
 public class BinarySearch {
-
+    //测试push88888
     public static void main(String[] args) {
 	// write your code here
         int a[]=new int[10];
